@@ -1,0 +1,13 @@
+2021-03-09 17:07:16 - ERROR - Tic-Tac-Toe App: [Errno 2] No such file or directory: 'saved_data\\Saved Data.json'
+Traceback (most recent call last):
+  File "C:/Users/diab/PycharmProjects/nt-team2-tic-tac-toe-master/main.py", line 18, in <module>
+    game.start()
+  File "C:\Users\diab\PycharmProjects\nt-team2-tic-tac-toe-master\game\__init__.py", line 15, in start
+    player1 = main_menu()
+  File "C:\Users\diab\PycharmProjects\nt-team2-tic-tac-toe-master\game\menu.py", line 25, in main_menu
+    player = login()
+  File "C:\Users\diab\PycharmProjects\nt-team2-tic-tac-toe-master\game\player_profile.py", line 16, in login
+    username = get_useraccount()
+  File "C:\Users\diab\PycharmProjects\nt-team2-tic-tac-toe-master\game\player_profile.py", line 37, in get_useraccount
+    with open(p / "Saved Data.json", "r") as file:
+FileNotFoundError: [Errno 2] No such file or directory: 'saved_data\\Saved Data.json'

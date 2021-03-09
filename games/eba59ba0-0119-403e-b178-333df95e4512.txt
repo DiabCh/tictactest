@@ -1,0 +1,10 @@
+2021-02-19 12:22:15 - INFO - game: Welcome and good luck!
+2021-02-19 12:22:15 - ERROR - Tic-Tac-Toe App: name 'menu' is not defined
+Traceback (most recent call last):
+  File "C:/Users/diab/PycharmProjects/nt-team2-tic-tac-toe-master/main.py", line 19, in <module>
+    game.start()
+  File "C:\Users\diab\PycharmProjects\nt-team2-tic-tac-toe-master\game\__init__.py", line 27, in start
+    player_name, sign = get_current_player(step)
+  File "C:\Users\diab\PycharmProjects\nt-team2-tic-tac-toe-master\game\player.py", line 8, in get_current_player
+    name = menu.main_menu()
+NameError: name 'menu' is not defined

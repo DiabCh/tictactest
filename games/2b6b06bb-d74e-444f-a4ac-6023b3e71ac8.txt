@@ -1,0 +1,5 @@
+2021-02-21 11:30:25 - ERROR - Tic-Tac-Toe App: module 'game' has no attribute 'main_menu'
+Traceback (most recent call last):
+  File "C:/Users/diab/PycharmProjects/nt-team2-tic-tac-toe-master/main.py", line 18, in <module>
+    game.main_menu()
+AttributeError: module 'game' has no attribute 'main_menu'

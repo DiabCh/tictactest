@@ -1,0 +1,54 @@
+2021-02-21 11:05:04 - INFO - game: Welcome and good luck!
+2021-02-21 11:05:04 - INFO - game: player 1 is your turn.
+2021-02-21 11:05:04 - INFO - game.board: +---+---+---+
+2021-02-21 11:05:04 - INFO - game.board: | 1 | 2 | 3 |
+2021-02-21 11:05:04 - INFO - game.board: +---+---+---+
+2021-02-21 11:05:04 - INFO - game.board: | 4 | 5 | 6 |
+2021-02-21 11:05:04 - INFO - game.board: +---+---+---+
+2021-02-21 11:05:04 - INFO - game.board: | 7 | 8 | 9 |
+2021-02-21 11:05:04 - INFO - game.board: +---+---+---+
+2021-02-21 11:05:04 - INFO - game: Pick a choice from available options: [1, 2, 3, 4, 5, 6, 7, 8, 9]
+2021-02-21 11:05:06 - INFO - game: Pick your choice: 
+2021-02-21 11:05:06 - INFO - game: Player choice: 1
+2021-02-21 11:05:06 - INFO - game: player 2 is your turn.
+2021-02-21 11:05:06 - INFO - game.board: +---+---+---+
+2021-02-21 11:05:06 - INFO - game.board: | x | 2 | 3 |
+2021-02-21 11:05:06 - INFO - game.board: +---+---+---+
+2021-02-21 11:05:06 - INFO - game.board: | 4 | 5 | 6 |
+2021-02-21 11:05:06 - INFO - game.board: +---+---+---+
+2021-02-21 11:05:06 - INFO - game.board: | 7 | 8 | 9 |
+2021-02-21 11:05:06 - INFO - game.board: +---+---+---+
+2021-02-21 11:05:06 - INFO - game: Pick a choice from available options: [2, 3, 4, 5, 6, 7, 8, 9]
+2021-02-21 11:05:08 - INFO - game: Pick your choice: 
+2021-02-21 11:05:08 - INFO - game: Player choice: 4
+2021-02-21 11:05:08 - INFO - game: player 1 is your turn.
+2021-02-21 11:05:08 - INFO - game.board: +---+---+---+
+2021-02-21 11:05:08 - INFO - game.board: | x | 2 | 3 |
+2021-02-21 11:05:08 - INFO - game.board: +---+---+---+
+2021-02-21 11:05:08 - INFO - game.board: | o | 5 | 6 |
+2021-02-21 11:05:08 - INFO - game.board: +---+---+---+
+2021-02-21 11:05:08 - INFO - game.board: | 7 | 8 | 9 |
+2021-02-21 11:05:08 - INFO - game.board: +---+---+---+
+2021-02-21 11:05:08 - INFO - game: Pick a choice from available options: [2, 3, 5, 6, 7, 8, 9]
+2021-02-21 11:05:09 - INFO - game: Pick your choice: 
+2021-02-21 11:05:09 - INFO - game: Player choice: 5
+2021-02-21 11:05:09 - INFO - game: player 2 is your turn.
+2021-02-21 11:05:09 - INFO - game.board: +---+---+---+
+2021-02-21 11:05:09 - INFO - game.board: | x | 2 | 3 |
+2021-02-21 11:05:09 - INFO - game.board: +---+---+---+
+2021-02-21 11:05:09 - INFO - game.board: | o | x | 6 |
+2021-02-21 11:05:09 - INFO - game.board: +---+---+---+
+2021-02-21 11:05:09 - INFO - game.board: | 7 | 8 | 9 |
+2021-02-21 11:05:09 - INFO - game.board: +---+---+---+
+2021-02-21 11:05:09 - INFO - game: Pick a choice from available options: [2, 3, 6, 7, 8, 9]
+2021-02-21 11:05:13 - INFO - game: Pick your choice: 
+2021-02-21 11:05:13 - INFO - game: Player choice: 2
+2021-02-21 11:05:13 - INFO - game: player 1 is your turn.
+2021-02-21 11:05:13 - INFO - game.board: +---+---+---+
+2021-02-21 11:05:13 - INFO - game.board: | x | o | 3 |
+2021-02-21 11:05:13 - INFO - game.board: +---+---+---+
+2021-02-21 11:05:13 - INFO - game.board: | o | x | 6 |
+2021-02-21 11:05:13 - INFO - game.board: +---+---+---+
+2021-02-21 11:05:13 - INFO - game.board: | 7 | 8 | 9 |
+2021-02-21 11:05:13 - INFO - game.board: +---+---+---+
+2021-02-21 11:05:13 - INFO - game: Pick a choice from available options: [3, 6, 7, 8, 9]
